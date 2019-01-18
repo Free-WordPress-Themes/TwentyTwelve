@@ -1,0 +1,10 @@
+<div class="screenshot"><img src="https://i0.wp.com/themes.svn.wordpress.org/twentytwelve/2.8/screenshot.png?zoom=1.5&amp;w=1142&amp;strip=all" alt="" width="572" height="429" src-orig="https://i0.wp.com/themes.svn.wordpress.org/twentytwelve/2.8/screenshot.png?w=1142&amp;strip=all" scale="1.5"></div>
+
+
+<div class="theme-description entry-summary" itemprop="description"><p>The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background.</p></div>
+
+
+<div class="theme-tags">
+	<h4>Tags:</h4>
+	<a href="/themes/tags/blog/">Blog</a>, <a href="/themes/tags/custom-background/">Custom Background</a>, <a href="/themes/tags/custom-header/">Custom Header</a>, <a href="/themes/tags/custom-menu/">Custom Menu</a>, <a href="/themes/tags/editor-style/">Editor Style</a>, <a href="/themes/tags/featured-images/">Featured Images</a>, <a href="/themes/tags/flexible-header/">Flexible Header</a>, <a href="/themes/tags/footer-widgets/">Footer Widgets</a>, <a href="/themes/tags/full-width-template/">Full Width Template</a>, <a href="/themes/tags/microformats/">Microformats</a>, <a href="/themes/tags/one-column/">One Column</a>, <a href="/themes/tags/post-formats/">Post Formats</a>, <a href="/themes/tags/right-sidebar/">Right Sidebar</a>, <a href="/themes/tags/rtl-language-support/">RTL Language Support</a>, <a href="/themes/tags/sticky-post/">Sticky Post</a>, <a href="/themes/tags/theme-options/">Theme Options</a>, <a href="/themes/tags/translation-ready/">Translation Ready</a>, <a href="/themes/tags/two-columns/">Two Columns</a>
+</div><!-- .theme-tags -->
